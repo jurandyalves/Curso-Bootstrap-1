@@ -47,3 +47,17 @@ h1{
     padding: 20px;
     border-radius: 5px;
 }
+
+/* Container breakpoint */
+.container-sm{
+    margin-bottom: 30px;
+    border: 2px solid red;
+}
+.container-md{
+    margin-bottom: 30px;
+    border: 2px solid blue;
+}
+.container-lg{
+    margin-bottom: 30px;
+    border: 2px solid chocolate;
+}
